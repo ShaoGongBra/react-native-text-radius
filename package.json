@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ShaoGongBra/react-tative-text-radius.git"
+    "url": "git@github.com:ShaoGongBra/react-native-text-radius.git"
   },
   "keywords": [
     "react-component",
