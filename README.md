@@ -5,10 +5,7 @@
 > or    
 > yarn add react-native-text-radius    
 
-`
+
 > improt TextTadius from 'react-native-text-radius'    
 > 
-> <TextTadius style={{borderRadius: 15,padding: 25;backgroundColor: #666;color: #fff;fontSize: 12;}}>    
->   文本内容    
-> </TextTadius>
-`
+> <TextTadius style={{borderRadius: 15,padding: 25;backgroundColor: #666;color: #fff;fontSize: 12;}}>文本内容<\/TextTadius>
