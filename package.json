@@ -1,0 +1,27 @@
+{
+  "name": "react-native-text-radius",
+  "version": "1.0.0",
+  "description": "让RNText组件在IOS上支持圆角",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ShaoGongBra/react-tative-text-radius.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "text"
+  ],
+  "author": "shaogong <908634674@qq.com> ",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.51.0"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0",
+    "react-native": ">=0.51.0 <1.0.0"
+  }
+}
