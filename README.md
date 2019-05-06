@@ -8,4 +8,4 @@
 
 > import TextRadius from 'react-native-text-radius'    
 > 
-> <TextRadius style={{borderRadius: 15,padding: 25,backgroundColor: '#666',color: '#fff',fontSize: 12}}>文本内容<\/TextRadius>
+> <TextRadius style={{borderRadius: 20,padding: 10,backgroundColor: '#666',color: '#fff',fontSize: 12,textAlign: 'center'}}>文本内容<\/TextRadius>
