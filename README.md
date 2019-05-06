@@ -1,5 +1,5 @@
 # react-native-text-radius
-让react-native的Text支持圆角属性
+让react-native的Text支持圆角属性、设置每边的边框、设置每个角的圆角属性
 # 使用方法
 > npm install react-native-text-radius    
 > or    
