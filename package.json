@@ -1,6 +1,6 @@
 {
   "name": "react-native-text-radius",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "让RNText组件在IOS上支持圆角",
   "main": "index.js",
   "repository": {
