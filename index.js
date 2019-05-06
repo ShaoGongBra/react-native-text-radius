@@ -14,14 +14,14 @@ export default class TextRadius extends Component {
     for(let key in this.props.style || {}){
       if(typeof this.props.style[key] == 'object'){
         for(let key1 in this.props.style[key]){
-          if('fontSize,color,lineHeight,fontWeight'.indexOf(key1) == -1){
+          if('fontSize,color,lineHeight,fontWeight,textAlign'.indexOf(key1) == -1){
             style[key1] = this.props.style[key][key1]
           }else{
             textStyle[key1] = this.props.style[key][key1]
           }
         }
       }else{
-        if('fontSize,color,lineHeight,fontWeight'.indexOf(key) == -1){
+        if('fontSize,color,lineHeight,fontWeight,textAlign'.indexOf(key) == -1){
           style[key] = this.props.style[key]
         }else{
           textStyle[key] = this.props.style[key]
